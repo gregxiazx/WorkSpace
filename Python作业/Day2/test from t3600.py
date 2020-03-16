@@ -1,1 +1,1 @@
-fprint ("test")
+print ("test")
